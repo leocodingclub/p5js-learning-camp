@@ -14,7 +14,7 @@ p5.js 的绘制图表和交互特性使得他非常适合做数据可视化及�
 
 ## Week 1 - Learn to code in JavaScript I （homework 1）
 
-![learn JS](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
+![learn JS](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)(image credit: https://www.tutorialrepublic.com/javascript-tutorial/)
 
 第一周，你将了解什么是 JavaScript 及 p5.js。你会学习基本的 Javascript 概念，语法，数据类型以及编写简单的函数。这将为我们接下来学习 p5.js 打下一个好基础。
 
