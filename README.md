@@ -28,18 +28,18 @@ p5.js 的绘制图表和交互特性使得他非常适合做数据可视化及�
 
 第三周，你将学习基本数据分析可视化类型和他们的 p5.js 实现，你将学习如何把第一、二周学到的代码技巧运用到这些项目中去。你还会学习如何在 p5.js 中读取 `.csv` 文件
 
-# Week 4 - Start Project Idea (project kickoff & small coding exercise)
+## Week 4 - Start Project Idea (project kickoff & small coding exercise)
 ![project finding](https://code.iadb.org/sites/default/files/inline-images/Screen%20Shot%202018-12-17%20at%206.10.02%20PM.png)(image credit: https://code.iadb.org/en/tools/mappa)
 
 第四周，你将开始决定你要做的项目，并开始寻找及准备数据。同时你讲继续练习如何熟练的使用 JavaScript， p5.js 及阅读相关文档。
 
-# Week 5 Project Discussion 
+## Week 5 - Project Discussion 
 ![projet discussion](https://i.pinimg.com/originals/7a/a9/2e/7aa92e2836559671db3767b6d5f83b9f.png)
 (image credit: https://www.pinterest.com.au/pin/473933560763379000/)
 
 答疑，讨论，深化你的项目，你将用这一周时间来准备你的作品。
 
-# Week 6 Project Presentation & Archiving
+## Week 6 - Project Presentation & Archiving
 ![projet final](https://i.ytimg.com/vi/mBPAtibRb1E/maxresdefault.jpg)
 (image credit: https://www.youtube.com/watch?v=mBPAtibRb1E)
 
